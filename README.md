@@ -1,6 +1,21 @@
 # 👩‍💼 Employee Management System (Java Swing + Oracle SQL)
 
-A robust **Java-based desktop application** for managing employee data within an organization. Built using **Java Swing** for the GUI and **Oracle SQL** for backend storage, this system includes full CRUD operations, secure admin login, and additional features like date pickers and result set viewing via external libraries.
+A robust **Java-based desktop application** for managing employee data within an organization. Built using **Java Swing** for the GUI and **Oracle SQL** for backend storage, this system includes full **CRUD** operations, secure admin login, and additional features like date pickers and result set viewing via external libraries.
+
+---
+
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Database Details](#-database-details)
+  - [Admin Table](#admin-table-schema-admin)
+  - [Employee Table](#employee-table-schema-employee)
+- [Project Structure](#-project-structure)
+- [How to Run](#-how-to-run)
+- [Future Scope](#-future-scope)
+- [Screenshots](#-screenshots)
+- [License](#-license)
 
 ---
 
@@ -15,6 +30,8 @@ A robust **Java-based desktop application** for managing employee data within an
 | ✏️ Update Employee     | Modify details for existing employees                                       |
 | ❌ Delete Employee     | Delete employee records by ID                                               |
 | 📅 JCalendar Support    | Use `JCalendar` for intuitive date selection                                 |
+| 🧮 Real-Time Validation | Validate inputs like email, phone using regex in real-time                   |
+| 📂 Modular Structure     | Each function separated in its own class for maintainability                |
 
 ---
 
@@ -107,15 +124,22 @@ EmployeeManagementSystem/
 | 📈 Analytics Dashboard         | Show employee trends using charts                      |
 | 🌐 Web Version                 | Migrate to Spring Boot or Node.js frontend              |
 | 🧪 Unit Testing               | Integrate with JUnit for code reliability               |
+| 🔄 Import/Export CSV           | Allow data import/export for offline access            |
+| 🧑‍💼 Multi-role Login         | Different access for HR, Admin, Manager                |
+| 🧾 PDF Report Generator        | Export employee details as formatted PDFs              |
 
 ---
 
 ## 📸 Screenshots
 
-> Add screenshots of your GUI here once available:
-- Login Page
-- Add Employee Form
-- View Table in JTable
+> Add screenshots of your GUI here:
+
+| 🖼️ Screen         | Preview                        |
+|------------------|---------------------------------|
+| Login Page       | ![Login](screenshots/login.png) |
+| Add Employee     | ![Add](screenshots/add.png)     |
+| View Employees   | ![View](screenshots/view.png)   |
+| Dashboard        | ![Dash](screenshots/dash.png)   |
 
 ---
 
@@ -125,5 +149,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Crafted with ❤️ in Java + Oracle by Omkar. 🚀
+> 🚀 Crafted with ❤️ in Java + Oracle by **Omkar**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Swing-blue?logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/Database-Oracle-red?logo=oracle">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
+</p>
 
