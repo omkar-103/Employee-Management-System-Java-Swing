@@ -1,3 +1,4 @@
+
 # 👩‍💼 Employee Management System (Java Swing + Oracle SQL)
 
 A robust **Java-based desktop application** for managing employee data within an organization. Built using **Java Swing** for the GUI and **Oracle SQL** for backend storage, this system includes full **CRUD** operations, secure admin login, and additional features like date pickers and result set viewing via external libraries.
@@ -132,14 +133,22 @@ EmployeeManagementSystem/
 
 ## 📸 Screenshots
 
-> Add screenshots of your GUI here:
+> Place all these screenshots inside the `Screenshots/` directory.
 
-| 🖼️ Screen         | Preview                        |
-|------------------|---------------------------------|
-| Login Page       | ![Login](screenshots/login.png) |
-| Add Employee     | ![Add](screenshots/add.png)     |
-| View Employees   | ![View](screenshots/view.png)   |
-| Dashboard        | ![Dash](screenshots/dash.png)   |
+| 🖼️ Screen         | Preview                                        |
+|------------------|-------------------------------------------------|
+| Splash Screen    | ![Splash](Screenshots/SplashScreen.png)         |
+| Login Page       | ![Login](Screenshots/Login.png)                 |
+| Login Page (Alt) | ![Login-1](Screenshots/Login-1.png)             |
+| Dashboard        | ![HomePage](Screenshots/HomePage.png)           |
+| Add Employee     | ![Add](Screenshots/AddEmployee.png)             |
+| Add Employee (Alt)| ![Add-1](Screenshots/AddEmployee-1.png)        |
+| View Employees   | ![View](Screenshots/ViewEmployee.png)           |
+| View Employees (Alt)| ![View-1](Screenshots/ViewEmployee-1.png)    |
+| Remove Employee  | ![Remove](Screenshots/RemoveEmployee.png)       |
+| Remove Employee (Alt)| ![Remove-1](Screenshots/RemoveEmployee-1.png)|
+| Print Preview    | ![Print](Screenshots/Print.png)                 |
+| Print Preview (Alt)| ![Print-1](Screenshots/Print-1.png)           |
 
 ---
 
@@ -156,4 +165,3 @@ This project is licensed under the [MIT License](LICENSE).
   <img src="https://img.shields.io/badge/Database-Oracle-red?logo=oracle">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
-
