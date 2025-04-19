@@ -158,7 +158,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 🚀 Crafted with ❤️ in Java + Oracle by **Omkar**.
+>  🚀 Crafted with ❤️ in Java + Oracle by [Omkar](https://www.linkedin.com/in/omkar-parelkar/).
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Swing-blue?logo=java" alt="Java">
